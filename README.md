@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PositiveMojo
-- 👀 I’m a Software Engineer who has developed systems for 32 years and am currently designing web applications, Windows Services, and desktop apps using Visual Studio. 
-- 🌱 I know most languages and systems pretty well. My current focus is on refining techniques to build better interfaces and more efficient data management.
-- 💞️ If you are using Visual Studio, I'm open to collaboration. I'm interested in problem solving, not debating
-- 📫 How to reach me ...
+- 👀 Developed systems for DoD, CyberSecurity (award by Networld/Interop), Analytical DB, Large Scale Web Apps, Fortune 500 & Gov't customers.  
+- 🌱 C++, C#, Java, Javascript, CSS, HTML, COBOL, Assembly, Oracle, MySQL, SQL Server, TCPIP, SNMP, UDP, HLLAPI, and other strange stuff.
+- 💞️ Love what I do.
+- 📫 mike@ftiglobal.com
 
 <!---
 PositiveMojo/PositiveMojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
